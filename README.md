@@ -1,1 +1,1 @@
-## A blog built on Ruby on Rails based on Tal Safran's tutorial 
+## A blog built on Ruby on Rails 
