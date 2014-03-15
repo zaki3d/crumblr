@@ -3,5 +3,8 @@ class PagesController < ApplicationController
   end
 
   def welcome
+  	@posts = Post.all
   end
+
+  
 end
